@@ -52,3 +52,4 @@ Variables:
 
 - Critical need for improved sewage treatment and policy enforcement.
 
+🔗 [View Full Interactive Notebook] - (https://nbviewer.org/github/Sourabh3024/Python-Project-for-Analysis-Water-Quality-Dataset-of-River-Yamuna/blob/09a4ca1499fd5ebad4bef2d0fd6e4b486fc33a7a/Yamuna_Water_Quality_Analysis_Project.ipynb)
